@@ -1,6 +1,6 @@
 # academia_metrics
 
-A new Flutter project.
+Aplicación Academia Metrics - Agencia los Navegantes.
 
 ## Getting Started
 
